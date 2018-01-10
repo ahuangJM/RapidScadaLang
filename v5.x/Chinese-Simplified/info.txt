@@ -1,0 +1,6 @@
+Language                 : Spanish
+Culture name:            : cs-CN
+Rapid SCADA version      : 5.1.0
+Rapid SCADA applications : All
+Author                   : JingMing(Alan) Huang
+Author's email           : alanjingminghuang@outlook.com
